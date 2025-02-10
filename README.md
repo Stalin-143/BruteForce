@@ -2,6 +2,10 @@
 
 # Brute Force Attack Script - Ethical Usage Guide
 
+![Image](https://github.com/user-attachments/assets/7b91f20e-636a-4f30-adf2-0bea77b44474)
+
+
+
 ## 📌 Introduction
 
 This script is designed for ethical hacking and penetration testing to identify weak credentials in login forms. It automates login attempts using a list of usernames and passwords to help security professionals assess vulnerabilities.
