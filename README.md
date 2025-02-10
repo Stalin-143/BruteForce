@@ -17,14 +17,14 @@ This script is designed for ethical hacking and penetration testing to identify 
 ✅ Uses wordlists for usernames & passwords.
 🔧 Requirements
 
-Ensure your system has:
+## Ensure your system has:
 
     Python 3.x installed
     Required libraries:
 
     pip install requests beautifulsoup4
-
-### Wordlists containing potential usernames and passwords.
+    
+Wordlists containing potential usernames and passwords.
 
 ## 📂 Installation & Usage
 
