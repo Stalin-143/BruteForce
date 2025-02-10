@@ -33,17 +33,17 @@ Wordlists containing potential usernames and passwords.
     git clone https://github.com/Stalin-143/BruteForce
     cd YourRepo
 
-### 2️⃣ Run the Script
+##### 2️⃣ Run the Script
 
       python3 Nexbru.py
 
-### 3️⃣ Input Required Details
+#### 3️⃣ Input Required Details
 
     Target URL (e.g., https://example.com/login)
     Username list file path (e.g., /path/to/usernames.txt)
     Password list file path (e.g., /path/to/passwords.txt)
 
-### 4️⃣ Script Execution Example
+#### 4️⃣ Script Execution Example
 
       Enter the target URL: https://example.com/login
       Enter the username list file path: /home/user/usernames.txt
